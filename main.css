@@ -1,0 +1,45 @@
+#personal-info{
+    height:500px;
+    width:20%;
+    border:8px ridge grey;
+    position:absolute;
+    margin:20px;
+    padding:20px;
+    padding-top:3em;
+    box-shadow:10px 10px 5px grey
+    
+  }
+  
+  #job-experience{
+    height:500px;
+    width:50%;
+    border:8px ridge grey;
+    position:absolute;
+    left:372px;
+    top:100px;
+    padding:10px;
+    padding-top:3em;
+    margin:10px;
+    box-shadow: 10px 10px 5px grey;
+  }
+  
+  #volunteer{
+    height:500px;
+    width:21%;
+    border:8px grey ridge;
+    position:absolute;
+    left:1218px;
+    top:100px;
+    margin:4px;
+    padding:10px;
+    padding-top:3.5em;
+    box-shadow: 10px 10px 5px grey;
+  }
+  
+  .text{
+    text-align:center;
+  }
+  
+  body{
+    background-color:rgb(113,238,184)
+  }
