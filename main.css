@@ -3,11 +3,11 @@
     width:20%;
     border:8px ridge grey;
     position:absolute;
-    margin:5px;
+    margin:2px;
     padding:20px;
     padding-top:3em;
     box-shadow:10px 10px 5px grey
-    
+    font-family:"lucida sans unicode", "lucida-grande", sans-serif;
   }
   
   #job-experience{
@@ -21,6 +21,7 @@
     padding-top:3em;
     margin:10px;
     box-shadow: 10px 10px 5px grey;
+    font-family:"lucida sans unicode", "lucida-grande", sans-serif;
   }
   
   #volunteer{
@@ -28,16 +29,18 @@
     width:21%;
     border:8px grey ridge;
     position:absolute;
-    left:1240px;
+    left:1225px;
     top:100px;
     margin:4px;
     padding:10px;
     padding-top:3.5em;
     box-shadow: 10px 10px 5px grey;
+    font-family:"lucida sans unicode", "lucida-grande", sans-serif;
   }
   
   .text{
     text-align:center;
+    font-family:"lucida sans unicode", "lucida-grande", sans-serif;
   }
   
   body{
