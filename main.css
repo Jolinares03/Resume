@@ -3,7 +3,7 @@
     width:20%;
     border:8px ridge grey;
     position:absolute;
-    left:10px;
+    left:5px;
     padding:20px;
     padding-top:3em;
     box-shadow:10px 10px 5px grey;
@@ -44,6 +44,6 @@
   }
   
   body{
-    background-color:rgb(113,238,184)
+    background-color:rgb(113,238,184);
     font-family:"lucida sans unicode", "lucida-grande", sans-serif;
   }
