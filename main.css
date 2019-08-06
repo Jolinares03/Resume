@@ -3,7 +3,7 @@
     width:20%;
     border:8px ridge grey;
     position:absolute;
-    margin:20px;
+    margin:5px;
     padding:20px;
     padding-top:3em;
     box-shadow:10px 10px 5px grey
@@ -28,7 +28,7 @@
     width:21%;
     border:8px grey ridge;
     position:absolute;
-    left:1218px;
+    left:1240px;
     top:100px;
     margin:4px;
     padding:10px;
